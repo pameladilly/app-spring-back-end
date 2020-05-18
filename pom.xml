@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.pameladilly</groupId>
 	<artifactId>minhasfinancas</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>minhasfinancas</name>
 	<description>Projeto para gerenciamento de finanças pessoais</description>
 
